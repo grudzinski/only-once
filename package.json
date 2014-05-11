@@ -1,0 +1,22 @@
+{
+  "name": "only-once",
+  "version": "0.0.0",
+  "description": "Forces a function to be called only once",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/grudzinski/only-once.git"
+  },
+  "author": "Roman Grudzinski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grudzinski/only-once/issues"
+  },
+  "homepage": "https://github.com/grudzinski/only-once",
+  "dependencies": {
+    "lodash": "^2.4.1"
+  }
+}
