@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/grudzinski/only-once",
   "dependencies": {
-    "lodash": "^2.4.1"
+    "lodash": "3.10.1"
   }
 }
